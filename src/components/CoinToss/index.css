@@ -1,0 +1,38 @@
+/* Write your CSS here */
+
+.bg-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-image: linear-gradient(to left, #e2a139, #f9d423, #a35200);
+}
+.page{
+  margin-right: 5px;
+}
+.button {
+  margin-top: 10px;
+}
+.heading {
+  font-size: 20px;
+}
+.sm-container {
+  height: 300px;
+  width: 200px;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.image {
+  height: 60px;
+  width: 60px;
+}
+.page-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  justify-content: space-around;
+}
